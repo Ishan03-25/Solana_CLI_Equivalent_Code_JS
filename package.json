@@ -1,0 +1,16 @@
+{
+  "name": "solana_cli_equivalent_code_js",
+  "version": "1.0.0",
+  "description": "Equivalent Code in Javascript for Solana CLI",
+  "license": "ISC",
+  "author": "Ishan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@solana/spl-token": "^0.4.13",
+    "@solana/web3.js": "^1.98.2"
+  }
+}
